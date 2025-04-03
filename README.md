@@ -1,1 +1,1 @@
-# SGSITS-COLLEGE-EVENT-PAGE
+# college-event-hub
